@@ -1,5 +1,5 @@
 [package]
-name = "a20-exponentiation-modular"
+name = "a21-exponentiation-modular"
 version = "0.1.0"
 edition = "2021"
 
